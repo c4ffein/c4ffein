@@ -9,7 +9,7 @@
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser.
 
-#### [c4ffein-configs](github.com/c4ffein/c4ffein-configs)
+#### [c4ffein-configs](https://github.com/c4ffein/c4ffein-configs)
 - Quick setups and config files for different environments
 
 #### [txt2pdf](https://github.com/c4ffein/txt2pdf)
