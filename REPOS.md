@@ -18,6 +18,10 @@
 #### [stripe-errors-translations](https://github.com/c4ffein/stripe-errors-translations)
 - WiP french translations for Stripe errors and end-users messages
 
+## Other contributions
+#### [Parsec Cloud by Scille](https://github.com/Scille/parsec-cloud)
+- A self-hostable cloud storage service with nearly full end-to-end encryption. See [the documentation](https://docs.parsec.cloud/en/latest/architecture.html).
+
 ## Gists
 - `.gitignore` https://gist.github.com/c4ffein/58c1dba80e5665d85112f3eab513a170
 - c4ffein's python lint configs : https://gist.github.com/c4ffein/794812cd2428b2bc5fae881c61f40892
