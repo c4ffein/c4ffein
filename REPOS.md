@@ -9,6 +9,9 @@
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser.
 
+#### [xjsx](https://github.com/c4ffein/xjsx)
+- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript.
+
 #### [c4ffein-configs](https://github.com/c4ffein/c4ffein-configs)
 - Quick setups and config files for different environments
 
