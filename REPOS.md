@@ -3,14 +3,17 @@
 #### [OOS Firmware Updater](https://github.com/c4ffein/OOS-firmware-updater)
 - Extract firmware from an OxygenOS ROM to a custom flashable firmwareupdater.zip
 
-#### [1files-js](https://github.com/c4ffein/1files-js)
-- Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs.
+#### [c4ffein/puzzles](https://github.com/c4ffein/puzzles)
+- Links to puzzles I enjoyed solving, and solutions for some
 
 #### [NNVP](https://github.com/c4ffein/NNVP)
-- This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser.
+- This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser
 
 #### [xjsx](https://github.com/c4ffein/xjsx)
-- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript.
+- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript
+
+#### [1files-js](https://github.com/c4ffein/1files-js)
+- Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
 
 #### [c4ffein-configs](https://github.com/c4ffein/c4ffein-configs)
 - Quick setups and config files for different environments
