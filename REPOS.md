@@ -6,6 +6,9 @@
 #### [c4ffein/puzzles](https://github.com/c4ffein/puzzles)
 - Links to puzzles I enjoyed solving, and solutions for some
 
+#### [RealWorld Django Ninja](https://github.com/c4ffein/realworld-django-ninja/)
+- A [demo app (RealWorld, a Medium clone implemented with multiple stacks)](https://codebase.show/projects/realworld?category=backend&language=python) for [Django Ninja](https://django-ninja.dev/)
+
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser
 
