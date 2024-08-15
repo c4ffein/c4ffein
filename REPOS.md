@@ -36,4 +36,3 @@
 
 ## Gists
 - `.gitignore` https://gist.github.com/c4ffein/58c1dba80e5665d85112f3eab513a170
-- c4ffein's python lint configs : https://gist.github.com/c4ffein/794812cd2428b2bc5fae881c61f40892
