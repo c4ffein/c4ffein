@@ -24,6 +24,9 @@
 #### [txt2pdf](https://github.com/c4ffein/txt2pdf)
 - Convert Markdown files to PDF in Python with optional custom CSS
 
+#### [writings](https://github.com/c4ffein/writings)
+- I will try to fight my perfectionism and start writing what I think about without caring if it is perfect or not
+
 #### [stripe-errors-translations](https://github.com/c4ffein/stripe-errors-translations)
 - WiP french translations for Stripe errors and end-users messages
 
