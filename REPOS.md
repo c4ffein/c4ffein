@@ -21,6 +21,9 @@
 #### [c4ffein-configs](https://github.com/c4ffein/c4ffein-configs)
 - Quick setups and config files for different environments
 
+#### [fv](https://github.com/c4ffein/fv)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg`
+
 #### [txt2pdf](https://github.com/c4ffein/txt2pdf)
 - Convert Markdown files to PDF in Python with optional custom CSS
 
@@ -31,8 +34,12 @@
 - WiP french translations for Stripe errors and end-users messages
 
 ## Other contributions
+*Projects I enjoyed contributing to*
 #### [Parsec Cloud by Scille](https://github.com/Scille/parsec-cloud)
 - A self-hostable cloud storage service with nearly full end-to-end encryption. See the [documentation](https://docs.parsec.cloud/en/latest/architecture.html).
+
+#### [Djano Ninja](https://github.com/vitalik/django-ninja)
+- Far more [KISS](https://en.wikipedia.org/wiki/KISS_principle) than [Django Rest Framework](https://github.com/encode/django-rest-framework), dropped some small PRs, I really enjoyed working with that framework and pushed for its adoption at some companies.
 
 ## Gists
 - `.gitignore` https://gist.github.com/c4ffein/58c1dba80e5665d85112f3eab513a170
