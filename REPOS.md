@@ -12,9 +12,6 @@
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser
 
-#### [xjsx](https://github.com/c4ffein/xjsx)
-- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript
-
 #### [1files-js](https://github.com/c4ffein/1files-js)
 - Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
 
@@ -26,6 +23,9 @@
 
 #### [txt2pdf](https://github.com/c4ffein/txt2pdf)
 - Convert Markdown files to PDF in Python with optional custom CSS
+
+#### [xjsx](https://github.com/c4ffein/xjsx)
+- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript - I had fun writing this, but feeling that I need to precise that you probably shouldn't use this
 
 #### [writings](https://github.com/c4ffein/writings)
 - I will try to fight my perfectionism and start writing what I think about without caring if it is perfect or not
