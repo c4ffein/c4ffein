@@ -18,9 +18,6 @@
 #### [c4ffein-configs](https://github.com/c4ffein/c4ffein-configs)
 - Quick setups and config files for different environments
 
-#### [fv](https://github.com/c4ffein/fv)
-- [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg`
-
 #### [txt2pdf](https://github.com/c4ffein/txt2pdf)
 - Convert Markdown files to PDF in Python with optional custom CSS
 
@@ -32,6 +29,14 @@
 
 #### [stripe-errors-translations](https://github.com/c4ffein/stripe-errors-translations)
 - WiP french translations for Stripe errors and end-users messages
+
+### Python cli utils
+
+#### [fv](https://github.com/c4ffein/fv)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg`
+
+#### [fv](https://github.com/c4ffein/fv)
+- [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli
 
 ## Other contributions
 *Projects I enjoyed contributing to*
