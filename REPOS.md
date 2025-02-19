@@ -40,10 +40,15 @@
 
 ### Python cli utils
 
+| -------------------------------------- | ----------------- |
+| [fv](https://github.com/c4ffein/fv)    | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg` |
+| [2fa](https://github.com/c4ffein/2fa)  | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli |
+
+
 #### [fv](https://github.com/c4ffein/fv)
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg`
 
-#### [2fa](https://github.com/c4ffein/2fa)
+#### 
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli
 
 #### [bank](https://github.com/c4ffein/bank)
