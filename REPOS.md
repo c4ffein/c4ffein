@@ -38,6 +38,9 @@
 #### [python-snippets](https://github.com/c4ffein/python-snippets)
 - Python snippets that don't deserve to get released on PyPI
 
+#### [presentations](https://github.com/c4ffein/presentations)
+- Archive for some slides
+
 ### Python cli utils
 
 | Project | Description |
