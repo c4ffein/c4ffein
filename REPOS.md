@@ -45,8 +45,7 @@
 | [2fa](https://github.com/c4ffein/2fa)   | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli |
 | [bank](https://github.com/c4ffein/bank) | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python client I use for some banking operations                             |
 | [sm](https://github.com/c4ffein/sm)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python mail client                                                          |
-### [presentations](https://github.com/c4ffein/presentations)
-- Archive for some slides
+### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
 
