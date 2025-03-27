@@ -34,10 +34,9 @@
 
 ### Reusable code
 
-| Name | Description |
-| :-------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| [1files-js](https://github.com/c4ffein/1files-js)               | Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs         |
-| [python-snippets](https://github.com/c4ffein/python-snippets)   | Python snippets that don't deserve to get released on PyPI                                                                       |
+- **[1files-js](https://github.com/c4ffein/1files-js)** Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
+- **[python-snippets](https://github.com/c4ffein/python-snippets)** Python snippets that don't deserve to get released on PyPI
+
 ### Python cli utils
 
 | Project | Description |
