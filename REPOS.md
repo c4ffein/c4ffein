@@ -32,15 +32,12 @@
 
 ## Small projects I only use myself
 
-#### [1files-js](https://github.com/c4ffein/1files-js)
-- Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
+### Reusable code
 
-#### [python-snippets](https://github.com/c4ffein/python-snippets)
-- Python snippets that don't deserve to get released on PyPI
-
-#### [presentations](https://github.com/c4ffein/presentations)
-- Archive for some slides
-
+| Name | Description |
+| :-------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| [1files-js](https://github.com/c4ffein/1files-js)               | Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs         |
+| [python-snippets](https://github.com/c4ffein/python-snippets)   | Python snippets that don't deserve to get released on PyPI                                                                       |
 ### Python cli utils
 
 | Project | Description |
@@ -49,6 +46,8 @@
 | [2fa](https://github.com/c4ffein/2fa)   | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli |
 | [bank](https://github.com/c4ffein/bank) | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python client I use for some banking operations                             |
 | [sm](https://github.com/c4ffein/sm)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python mail client                                                          |
+### [presentations](https://github.com/c4ffein/presentations)
+- Archive for some slides
 
 ## Just for fun
 
