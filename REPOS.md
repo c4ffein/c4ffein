@@ -46,7 +46,7 @@
 | [bank](https://github.com/c4ffein/bank)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python client I use for some banking operations                             |
 | [sm](https://github.com/c4ffein/sm)         | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python mail client                                                          |
 | [crypto](https://github.com/c4ffein/crypto) | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python crypto tools                                                         |
-| [pass](https://github.com/c4ffein/pass)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [password-store](/zx2c4/password-store) implementation               |
+| [pass](https://github.com/c4ffein/pass)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [password-store](zx2c4/password-store) implementation               |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
