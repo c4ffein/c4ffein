@@ -51,6 +51,9 @@
 
 ## Just for fun
 
+#### [shaders](https://github.com/c4ffein/shaders)
+- Just some shaders
+
 #### [xjsx](https://github.com/c4ffein/xjsx)
 - A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript - I had fun writing this, but feeling that I need to precise that you probably shouldn't use this
 
