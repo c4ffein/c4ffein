@@ -28,7 +28,7 @@
 - A self-hostable cloud storage service with nearly full end-to-end encryption. See the [documentation](https://docs.parsec.cloud/en/latest/architecture.html).
 
 #### [Djano Ninja](https://github.com/vitalik/django-ninja)
-- Far more [KISS](https://en.wikipedia.org/wiki/KISS_principle) than [Django Rest Framework](https://github.com/encode/django-rest-framework), dropped some small PRs, I really enjoyed working with that framework and pushed for its adoption at some companies.
+- Far more [KISS](https://en.wikipedia.org/wiki/KISS_principle) than [Django Rest Framework](https://github.com/encode/django-rest-framework), dropped [some small PRs](https://github.com/vitalik/django-ninja/pulls?q=is%3Apr+author%3Ac4ffein), I really enjoyed working with that framework and pushed for its adoption at some companies.
 
 ## Small projects I only use myself
 
