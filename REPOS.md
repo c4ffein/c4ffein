@@ -38,7 +38,7 @@
 - **[`python-snippets`](https://github.com/c4ffein/python-snippets)** Python snippets that don't deserve to get released on PyPI
 
 ### Python cli utils
-A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli tools that fit in one file.  
+A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli tools that each fit in one file.  
 The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Overall really quick and dirty, I wanted to see if I could code a bunch of those tools on the fly and only enhance them when needed.  
 
 | Project | Description |
