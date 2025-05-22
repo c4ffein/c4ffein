@@ -38,15 +38,18 @@
 - **[`python-snippets`](https://github.com/c4ffein/python-snippets)** Python snippets that don't deserve to get released on PyPI
 
 ### Python cli utils
+A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli tools that fit in one file.  
+The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Overall really quick and dirty, I wanted to see if I could code a bunch of those tools on the fly and only enhance them when needed.  
 
 | Project | Description |
-| :------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------- |
-| [fv](https://github.com/c4ffein/fv)         | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python e2e encrypted FileVault based on `gpg`                               |
-| [2fa](https://github.com/c4ffein/2fa)       | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli |
-| [bank](https://github.com/c4ffein/bank)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python client I use for some banking operations                             |
-| [sm](https://github.com/c4ffein/sm)         | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python mail client                                                          |
-| [crypto](https://github.com/c4ffein/crypto) | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python crypto tools                                                         |
-| [pass](https://github.com/c4ffein/pass)     | [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python [password-store](https://github.com/zx2c4/password-store) implementation |
+| :------------------------------------------ | :----------------------------------------------------------------------- |
+| [fv](https://github.com/c4ffein/fv)         | e2e encrypted FileVault based on `gpg`                                   |
+| [ai](https://github.com/c4ffein/ai)         | LLM bridge betweem Claude API and your terminal                          |
+| [2fa](https://github.com/c4ffein/2fa)       | [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli     |
+| [bank](https://github.com/c4ffein/bank)     | client I use for some banking operations                                 |
+| [sm](https://github.com/c4ffein/sm)         | mail client                                                              |
+| [crypto](https://github.com/c4ffein/crypto) | crypto tools                                                             |
+| [pass](https://github.com/c4ffein/pass)     | [password-store](https://github.com/zx2c4/password-store) implementation |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
