@@ -51,7 +51,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [sm](https://github.com/c4ffein/sm)                         | mail client                                                              |
 | [crypto](https://github.com/c4ffein/crypto)                 | crypto tools                                                             |
 | [pass](https://github.com/c4ffein/pass)                     | [password-store](https://github.com/zx2c4/password-store) implementation |
-| [capucintyper](https://github.com/c4ffein/capucintyper)     | [Monkeytyper](https://monkeytype.com)-like                               |
+| [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
