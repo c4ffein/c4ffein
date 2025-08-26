@@ -43,14 +43,15 @@ A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli 
 The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Overall really quick and dirty, I wanted to see if I could code a bunch of these tools on the fly and only enhance them when needed.  
 
 | Project | Description |
-| :------------------------------------------ | :----------------------------------------------------------------------- |
-| [fv](https://github.com/c4ffein/fv)         | e2e encrypted FileVault based on `gpg`                                   |
-| [ai](https://github.com/c4ffein/ai)         | LLM bridge betweem Claude API and your terminal                          |
-| [2fa](https://github.com/c4ffein/2fa)       | [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli     |
-| [bank](https://github.com/c4ffein/bank)     | client I use for some banking operations                                 |
-| [sm](https://github.com/c4ffein/sm)         | mail client                                                              |
-| [crypto](https://github.com/c4ffein/crypto) | crypto tools                                                             |
-| [pass](https://github.com/c4ffein/pass)     | [password-store](https://github.com/zx2c4/password-store) implementation |
+| :---------------------------------------------------------- | :----------------------------------------------------------------------- |
+| [fv](https://github.com/c4ffein/fv)                         | e2e encrypted FileVault based on `gpg`                                   |
+| [ai](https://github.com/c4ffein/ai)                         | LLM bridge betweem Claude API and your terminal                          |
+| [2fa](https://github.com/c4ffein/2fa)                       | [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli     |
+| [bank](https://github.com/c4ffein/bank)                     | client I use for some banking operations                                 |
+| [sm](https://github.com/c4ffein/sm)                         | mail client                                                              |
+| [crypto](https://github.com/c4ffein/crypto)                 | crypto tools                                                             |
+| [pass](https://github.com/c4ffein/pass)                     | [password-store](https://github.com/zx2c4/password-store) implementation |
+| [capucintyper](https://github.com/c4ffein/capucintyper)     | Monkeytyper-like                                                         |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
