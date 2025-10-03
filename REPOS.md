@@ -52,7 +52,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [crypto](https://github.com/c4ffein/crypto)                 | crypto tools                                                             |
 | [pass](https://github.com/c4ffein/pass)                     | [password-store](https://github.com/zx2c4/password-store) implementation |
 | [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
-| [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode), but bundled into a single file                                 |
+| [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
