@@ -53,6 +53,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [pass](https://github.com/c4ffein/pass)                     | [password-store](https://github.com/zx2c4/password-store) implementation |
 | [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
 | [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
+| [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ## Just for fun
