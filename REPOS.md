@@ -56,7 +56,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
-### [Custom docker images](https://github.com/c4ffein/docker-images)
+### [Custom Docker images](https://github.com/c4ffein/docker-images) - Custom setups I needed
 
 ## Just for fun
 
