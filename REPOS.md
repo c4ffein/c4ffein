@@ -17,7 +17,8 @@
 - Convert Markdown files to PDF in Python with optional custom CSS
 
 #### [writings](https://github.com/c4ffein/writings)
-- I will try to fight my perfectionism and start writing what I think about without caring if it is perfect or not
+- Trying to fight my perfectionism and start writing in public
+- Also deployed in a clean state at [writings.cafeine.dev](https://writings.cafeine.dev)
 
 #### [c4ffein/puzzles](https://github.com/c4ffein/puzzles)
 - Links to puzzles I enjoyed solving, and solutions for some
@@ -65,6 +66,9 @@ The coding standards differ from one project to another. Sometimes I didn't even
 
 #### [xjsx](https://github.com/c4ffein/xjsx)
 - A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript - I had fun writing this, but feeling that I need to precise that you probably shouldn't use this
+
+#### [ai-bridge](https://github.com/c4ffein/ai-bridge)
+- KISS bridge between AI providers and messengers (only Claude on Discord for now)
 
 ## Gists
 - `.gitignore` https://gist.github.com/c4ffein/58c1dba80e5665d85112f3eab513a170
