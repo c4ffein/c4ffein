@@ -55,7 +55,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
 | [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
 | [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
-### Tools living on my server
+### Tools living on my servers
 Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.
 
 | Project | Description |
