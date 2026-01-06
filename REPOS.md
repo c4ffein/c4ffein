@@ -41,7 +41,7 @@
 
 ### Python cli utils
 A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli tools that each fit in one file.  
-The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Overall really quick and dirty, I wanted to see if I could code a bunch of these tools on the fly and only enhance them when needed.  
+The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Sometimes I vibe coded, then only checked the code for security. Overall really quick and dirty, I wanted to see if I could code a bunch of these tools on the fly and only enhance them when needed.  
 
 | Project | Description |
 | :---------------------------------------------------------- | :----------------------------------------------------------------------- |
@@ -55,6 +55,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
 | [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
 | [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
+| [feed](https://github.com/c4ffein/feed)                     | RSS reader with HTML rendering                                           |
 ### Tools living on my servers
 Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.
 
