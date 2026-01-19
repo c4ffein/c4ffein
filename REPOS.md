@@ -56,7 +56,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
 | [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
 | [feed](https://github.com/c4ffein/feed)                     | RSS reader with HTML rendering                                           |
-| [containerctl](https://github.com/c4ffein/containerctl)     | Docker CLI/TUI manager                                                   |
+| [containerctl](https://github.com/c4ffein/containerctl)     | containers CLI/TUI manager                                               |
 ### Tools living on my servers
 Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.
 
