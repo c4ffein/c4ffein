@@ -5,7 +5,7 @@
 
 #### [RealWorld Django Ninja](https://github.com/c4ffein/realworld-django-ninja/)
 - A [demo app (RealWorld, a Medium clone implemented with multiple stacks)](https://codebase.show/projects/realworld?category=backend&language=python) for [Django Ninja](https://django-ninja.dev/)
-  - I also maintain the [original RealWorld repo](https://github.com/gothinkster/realworld), with deployment through GitHub Pages for [the demo website](https://github.com/c4ffein/realworld-demo-deploy) and [the documentation](https://github.com/c4ffein/realworld-docs-deploy)
+  - I also maintain the [original RealWorld repo](https://github.com/gothinkster/realworld), with deployment through GitHub Pages for [the demo website](https://github.com/c4ffein/realworld-demo-deploy)
 
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser
