@@ -77,6 +77,7 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
 | [feed](https://github.com/c4ffein/feed)                     | RSS reader with HTML rendering                                           |
 | [containerctl](https://github.com/c4ffein/containerctl)     | containers CLI/TUI manager                                               |
+| [cloud](https://github.com/c4ffein/cloud)                   | cloud management for my toy projects                                     |
 ### Tools living on my servers
 Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.
 
