@@ -86,6 +86,9 @@ Decided I'd have more fun also vibe coding (still reviewing once before prod ofc
 | [ai-bridge](https://github.com/c4ffein/ai-bridge)           | KISS bridge between AI providers and messengers (only Claude on Discord for now)                                          |
 | [media-bridge](https://github.com/c4ffein/media-bridge)     | KISS virtual audio devices over WebSocket. Stream audio between a browser and a headless Linux server.                    |
 
+### pure sh helpers
+- [bssh](https://github.com/c4ffein/bssh) - KISS pure-shell helper to make your ssh connections persistent in case of network cuts, only requires GNU Screen to be available on the remote server
+
 ### [presentations](https://github.com/c4ffein/presentations) - Archive for some slides
 
 ### [Custom Docker images](https://github.com/c4ffein/docker-images) - Custom setups I needed
