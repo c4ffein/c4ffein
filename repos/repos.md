@@ -3,9 +3,9 @@
 #### [OOS Firmware Updater](https://github.com/c4ffein/OOS-firmware-updater)
 - Extract firmware from an OxygenOS ROM to a custom flashable firmwareupdater.zip
 
-#### [RealWorld](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
+#### [RealWorld](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-realworld.md)
 - A [spec for an example app](https://github.com/realworld-apps/realworld/) (a [Medium clone](https://demo.realworld.show)), with [many implementations on CodebaseShow](https://codebase.show).
-- I also maintain [several implementations](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md).
+- I also maintain [several implementations](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-realworld.md).
 
 #### [NNVP](https://github.com/c4ffein/NNVP)
 - This project allows you to generate Python code describing a Keras model by creating a graph representing the different layers in your browser
