@@ -59,8 +59,8 @@ Most implementations are listed on [CodebaseShow](https://codebase.show).
 - **[`1files-js`](https://github.com/c4ffein/1files-js)** Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
 - **[`python-snippets`](https://github.com/c4ffein/python-snippets)** Python snippets that don't deserve to get released on PyPI
 
-### [Python cli utils](https://github.com/c4ffein/c4ffein/blob/main/repos/python-cli-utils.md)
-[A collection of KISS Python cli tools that each fit in one file.](https://github.com/c4ffein/c4ffein/blob/main/repos/python-cli-utils.md)
+### [Python cli utils](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-python-cli-utils.md)
+[A collection of KISS Python cli tools that each fit in one file.](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-python-cli-utils.md)
 
 ### [Tools living on my servers](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
 [Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
