@@ -72,16 +72,8 @@ Most implementations are listed on [CodebaseShow](https://codebase.show).
 
 ### [Custom Docker images](https://github.com/c4ffein/docker-images) - Custom setups I needed
 
-## Just for fun
-
-#### [shaders](https://github.com/c4ffein/shaders)
-- Just some shaders
-
-#### [pyscotch](https://github.com/c4ffein/pyscotch)
-- Vibe-engineered Python wrapper around [PT-Scotch](https://gitlab.inria.fr/scotch/scotch)
-
-#### [xjsx](https://github.com/c4ffein/xjsx)
-- A new way to generate React elements without jsx, inspired by pug syntax, compatible with Tailwind CSS, actually pure JavaScript - I had fun writing this, but feeling that I need to precise that you probably shouldn't use this
+## [Just for fun](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-just-for-fun.md)
+[These are the least useful (unless...)](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-just-for-fun.md)
 
 ## Gists
 - `.gitignore` https://gist.github.com/c4ffein/58c1dba80e5665d85112f3eab513a170
