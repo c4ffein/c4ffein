@@ -59,25 +59,9 @@ Most implementations are listed on [CodebaseShow](https://codebase.show).
 - **[`1files-js`](https://github.com/c4ffein/1files-js)** Monorepo collection of short js libs I used, either developed by myself or just found and modified according to my needs
 - **[`python-snippets`](https://github.com/c4ffein/python-snippets)** Python snippets that don't deserve to get released on PyPI
 
-### Python cli utils
-A collection of [KISS](https://en.wikipedia.org/wiki/KISS_principle) Python cli tools that each fit in one file.  
-The coding standards differ from one project to another. Sometimes I didn't even setup a linter or any tests. Sometimes I vibe coded, then only checked the code for security. Overall really quick and dirty, I wanted to see if I could code a bunch of these tools on the fly and only enhance them when needed.  
+### [Python cli utils](https://github.com/c4ffein/c4ffein/blob/main/repos/python-cli-utils.md)
+[A collection of KISS Python cli tools that each fit in one file.](https://github.com/c4ffein/c4ffein/blob/main/repos/python-cli-utils.md)
 
-| Project | Description |
-| :---------------------------------------------------------- | :----------------------------------------------------------------------- |
-| [fv](https://github.com/c4ffein/fv)                         | e2e encrypted FileVault based on `gpg`                                   |
-| [ai](https://github.com/c4ffein/ai)                         | LLM bridge betweem Claude API and your terminal                          |
-| [2fa](https://github.com/c4ffein/2fa)                       | [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication) cli     |
-| [bank](https://github.com/c4ffein/bank)                     | client I use for some banking operations                                 |
-| [sm](https://github.com/c4ffein/sm)                         | mail client                                                              |
-| [crypto](https://github.com/c4ffein/crypto)                 | crypto tools                                                             |
-| [pass](https://github.com/c4ffein/pass)                     | [password-store](https://github.com/zx2c4/password-store) implementation |
-| [capucintype](https://github.com/c4ffein/capucintype)       | [Monkeytype](https://monkeytype.com)-like                                |
-| [qrcode](https://github.com/c4ffein/qrcode)                 | [python-qrcode](https://github.com/lincolnloop/python-qrcode) - but bundled into a single file                                 |
-| [companion](https://github.com/c4ffein/companion)           | server + cli + web companion app                                         |
-| [feed](https://github.com/c4ffein/feed)                     | RSS reader with HTML rendering                                           |
-| [containerctl](https://github.com/c4ffein/containerctl)     | containers CLI/TUI manager                                               |
-| [cloud](https://github.com/c4ffein/cloud)                   | cloud management for my toy projects                                     |
 ### [Tools living on my servers](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
 [Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
 
