@@ -78,15 +78,8 @@ The coding standards differ from one project to another. Sometimes I didn't even
 | [feed](https://github.com/c4ffein/feed)                     | RSS reader with HTML rendering                                           |
 | [containerctl](https://github.com/c4ffein/containerctl)     | containers CLI/TUI manager                                               |
 | [cloud](https://github.com/c4ffein/cloud)                   | cloud management for my toy projects                                     |
-### Tools living on my servers
-Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.
-
-| Project | Description |
-| :---------------------------------------------------------- | :----------------------------------------------------------------------- |
-| [ai-bridge](https://github.com/c4ffein/ai-bridge)           | KISS bridge between AI providers and messengers (only Claude on Discord for now).                                                 |
-| [media-bridge](https://github.com/c4ffein/media-bridge)     | KISS virtual audio devices over WebSocket. Stream audio between a browser and a headless Linux server.                            |
-| [yt-bridge](https://github.com/c4ffein/yt-bridge)           | KISS server that monitors YouTube channels and generates RSS feeds of both their video transcripts and LLM-generated summaries.   |
-| [draft-check](https://github.com/c4ffein/draft-check)       | KISS web app that helps me fix my broken English.                                                                                 |
+### [Tools living on my servers](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
+[Decided I'd have more fun also vibe coding (still reviewing once before prod ofc) the tools that live on my servers.](https://github.com/c4ffein/c4ffein/blob/main/repos/repos-self-hosted-tools.md)
 
 ### pure sh helpers
 - [bssh](https://github.com/c4ffein/bssh) - KISS pure-shell helper to make your ssh connections persistent in case of network cuts, only requires GNU Screen to be available on the remote server
